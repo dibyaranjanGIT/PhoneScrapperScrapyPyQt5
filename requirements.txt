@@ -1,0 +1,5 @@
+pandas 
+PyQt5 
+Scrapy 
+openpyxl 
+phonenumbers
